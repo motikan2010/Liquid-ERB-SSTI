@@ -1,6 +1,6 @@
 # Liquid ERB SSTI (Server-Side Template Injection)
 
-Vulnerability application for Liquid and ERB.
+SSTI vulnerability application for Liquid and ERB.
 
 ## Run
 
